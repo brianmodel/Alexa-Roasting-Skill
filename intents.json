@@ -1,0 +1,17 @@
+{
+    "intents": [
+      {
+        "slots": [
+          {
+            "name": "FIRSTNAME",
+            "type": "AMAZON.US_FIRST_NAME"
+          },
+          {
+            "name": "LANGUAGE",
+            "type": "Languages"
+          }
+        ],
+        "intent": "HelloIntent"
+      }
+    ]
+  }

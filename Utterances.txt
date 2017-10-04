@@ -1,0 +1,8 @@
+HelloIntent say hello to {FIRSTNAME}
+HelloIntent wish hello to {FIRSTNAME}
+HelloIntent wish {FIRSTNAME}
+HelloIntent say hello to {FIRSTNAME} in {LANGUAGE}
+HelloIntent wish hello to {FIRSTNAME} in {LANGUAGE}
+HelloIntent wish {FIRSTNAME} in {LANGUAGE}
+HelloIntent roast {FIRSTNAME} in {LANGUAGE}
+HelloIntent roast {FIRSTNAME}

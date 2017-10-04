@@ -1,0 +1,6 @@
+German
+Russian
+English
+Spanish
+Portuguese
+Hungarian
